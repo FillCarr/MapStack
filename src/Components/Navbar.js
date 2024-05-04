@@ -11,7 +11,8 @@ import { Box, Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText
 import PopupForm from './PopupForm'
 
 const Navbar = () => {
-  const [showForm, setShowForm, openMenu, setOpenMenu] = useState(false);
+  const [showForm, setShowForm] = useState(false);
+  const [openMenu, setOpenMenu] = useState(false);
   const toggleForm = () => {
     setShowForm(!showForm);
   };
