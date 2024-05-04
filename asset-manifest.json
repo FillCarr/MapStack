@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MapStack/static/css/main.24e700ec.css",
-    "main.js": "/MapStack/static/js/main.ac735f4b.js",
+    "main.js": "/MapStack/static/js/main.100b4d86.js",
     "static/media/teamup-image.jpg": "/MapStack/static/media/teamup-image.677ff7bdb158116914b0.jpg",
     "static/media/home-banner-image.png": "/MapStack/static/media/home-banner-image.1532edd0ded67946ad0e.png",
     "static/media/about-background.png": "/MapStack/static/media/about-background.449ee85e40092750bb68.png",
@@ -12,10 +12,10 @@
     "static/media/conversation-image.png": "/MapStack/static/media/conversation-image.2fb28291370f113d5a06.png",
     "index.html": "/MapStack/index.html",
     "main.24e700ec.css.map": "/MapStack/static/css/main.24e700ec.css.map",
-    "main.ac735f4b.js.map": "/MapStack/static/js/main.ac735f4b.js.map"
+    "main.100b4d86.js.map": "/MapStack/static/js/main.100b4d86.js.map"
   },
   "entrypoints": [
     "static/css/main.24e700ec.css",
-    "static/js/main.ac735f4b.js"
+    "static/js/main.100b4d86.js"
   ]
 }
