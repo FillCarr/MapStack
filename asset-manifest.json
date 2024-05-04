@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MapStack/static/css/main.24e700ec.css",
+    "main.js": "/MapStack/static/js/main.ac735f4b.js",
+    "static/media/teamup-image.jpg": "/MapStack/static/media/teamup-image.677ff7bdb158116914b0.jpg",
+    "static/media/home-banner-image.png": "/MapStack/static/media/home-banner-image.1532edd0ded67946ad0e.png",
+    "static/media/about-background.png": "/MapStack/static/media/about-background.449ee85e40092750bb68.png",
+    "static/media/home-banner-background.png": "/MapStack/static/media/home-banner-background.664eea345adf83a2d1ce.png",
+    "static/media/john-doe-image.png": "/MapStack/static/media/john-doe-image.55a54c97a9dc9d90e917.png",
+    "static/media/about-background-image.png": "/MapStack/static/media/about-background-image.a055633854ef86a4dc4a.png",
+    "static/media/delivery-image.png": "/MapStack/static/media/delivery-image.d7ef372e7fb69930ed85.png",
+    "static/media/conversation-image.png": "/MapStack/static/media/conversation-image.2fb28291370f113d5a06.png",
+    "index.html": "/MapStack/index.html",
+    "main.24e700ec.css.map": "/MapStack/static/css/main.24e700ec.css.map",
+    "main.ac735f4b.js.map": "/MapStack/static/js/main.ac735f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e700ec.css",
+    "static/js/main.ac735f4b.js"
+  ]
+}
